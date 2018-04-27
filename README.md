@@ -16,3 +16,11 @@ A tool for the annotation of image areas and extraction of the resulting segment
 * Double-clicking right removes an annotation, or the last point of the bounding polygon, if one is currently being edited.
 * Holding the right or middle mouse button and moving the mouse will scroll the image.
 * Using the mouse wheel, the image can be zoomed in and out.
+
+### Requirements
+* Requires Qt5
+
+### Compiling
+  mkdir build
+  qmake ..
+  make
