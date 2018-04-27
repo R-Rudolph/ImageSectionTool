@@ -21,6 +21,7 @@ A tool for the annotation of image areas and extraction of the resulting segment
 * Requires Qt5
 
 ### Compiling
-  mkdir build
-  qmake ..
-  make
+    mkdir build
+    qmake ..
+    make
+    
