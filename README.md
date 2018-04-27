@@ -18,7 +18,7 @@ A tool for the annotation of image areas and extraction of the resulting segment
 * Using the mouse wheel, the image can be zoomed in and out.
 
 ### Requirements
-* Requires Qt5
+* Qt5
 
 ### Compiling
     mkdir build
